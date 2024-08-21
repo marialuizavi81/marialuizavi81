@@ -25,7 +25,7 @@ Sou sempre curiosa e adoro explorar novas linguagens de programação e tecnolog
 vem ver meus projetos!( ate agora ta meio vazio mas isso vai mudar LOL)
 
 ----------------------------------------------------
-# translation into english
+### translation into english
 
 ## 👋 Hi, I’m Maria Luiza (@marialuizavi81)
 
