@@ -1,55 +1,77 @@
-## 👋 Olá, eu sou Maria Luiza (@marialuizavi81)
+👋 Hi, I'm Maria Luiza (@marialuizavi81)
 
-🎮 **Apaixonada por Desenvolvimento de Jogos**  
-Atualmente, estou trabalhando em alguns projetos para tornar meu sonho de criar jogos uma realidade. Estou utilizando Godot (GDScript) para isso.
+🎮 Software Developer | Game Developer | Cybersecurity Enthusiast
 
-💻 **Conhecimentos intermediário em:**  
-- JavaScript  
-- CSS  
-- HTML
-  
-🚀 **O que estou aprendendo:**  
-- Java ☕  
-- SQL 🗄️  
+I'm passionate about technology and love turning ideas into real projects. My main interests are software development, game development, automation, cloud technologies, and cybersecurity.
+
+Currently, I'm building personal projects with Godot (GDScript) while continuously improving my programming and security skills. I enjoy solving problems, learning new technologies, and challenging myself with practical projects.
+
+---
+
+💻 Tech Stack
+
+Languages
+
 - Python 🐍
+- Java ☕
+- JavaScript
+- SQL
+- HTML & CSS
+- GDScript
 
-🎯 **Próximos passos:**  
-Pretendo aprender C# para expandir minhas habilidades em desenvolvimento de jogos.
+Frameworks & Tools
 
-📬 **Como entrar em contato comigo:**  
+- Django
+- Angular
+- Git & GitHub
+- MySQL
+- Power BI
+- VS Code
+- Godot Engine
+
+Cloud & Microsoft
+
+- Microsoft Azure
+- Power Platform (Power Apps, Power Automate)
+- Microsoft Dataverse
+- AWS
+
+Cybersecurity
+
+- Security Fundamentals
+- Cloud Security
+- Identity & Access Management
+- Networking Fundamentals
+- Secure Development Practices
+
+---
+
+🚀 Currently Learning
+
+- Advanced Java
+- Angular
+- Cloud Security
+- Ethical Hacking Fundamentals
+- DevOps Concepts
+- C#
+
+---
+🎯 Goals
+- Become a Software Engineer with a strong Cybersecurity background.
+- Publish my own indie games.
+- Contribute to Open Source projects.
+- Continue expanding my knowledge in Cloud Computing and Security.
+---
+📫 Contact
 - Gmail: [marialuizavitoria@gmail.com](mailto:marialuizavitoria@gmail.com)  
 - LinkedIn: [www.linkedin.com/in/maria-luiza81](https://www.linkedin.com/in/maria-luiza81)
+---
 
-✨ **Fun Fact:**  
-Sou sempre curiosa e adoro explorar novas linguagens de programação e tecnologias!
-vem ver meus projetos!( ate agora ta meio vazio mas isso vai mudar LOL)
+✨ Fun Fact
 
-----------------------------------------------------
-### translation into english
+I love learning new technologies almost as much as I love creating things. Whether it's developing games, automating processes, or studying cybersecurity, I'm always working on something new.
 
-## 👋 Hi, I’m Maria Luiza (@marialuizavi81)
+⭐ My GitHub is still growing, but every project here represents another step in my journey. Feel free to explore them!
 
-🎮 **Passionate About Game Development**  
-I’m currently working on a few projects to make my dream of creating games a reality. I'm using Godot (GDScript) for that.
 
-💻 **Intermediate Knowledge in:**  
-- JavaScript  
-- CSS  
-- HTML
-
-🚀 **What I’m Learning:**  
-- Java ☕  
-- SQL 🗄️  
-- Python 🐍
-
-🎯 **Next Steps:**  
-I plan to learn C# to expand my skills in game development.
-
-📬 **How to Reach Me:**  
-- Gmail: [marialuizavitoria@gmail.com](mailto:marialuizavitoria@gmail.com)  
-- LinkedIn: [www.linkedin.com/in/maria-luiza81](https://www.linkedin.com/in/maria-luiza81)
-
-✨ **Fun Fact:**  
-I'm always curious and love exploring new programming languages and technologies!  
-Come check out my projects! (It's a bit empty for now, but that will change LOL)
 
