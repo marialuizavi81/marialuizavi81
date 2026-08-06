@@ -1,6 +1,9 @@
-👋 Hi, I'm Maria Luiza (@marialuizavi81)
+# 👋 Hi, I'm Maria Luiza (@marialuizavi81) 
 
-🎮 Software Developer | Game Developer | Cybersecurity Enthusiast
+<img alt="Cloudy morning" src="https://hackernoon.imgix.net/hn-images/1*zm5NLjdhGd3VVTA2u-xEPg.gif?w=1200&q=75&auto=format" width="80" align="right">
+
+<h2> 🎮 Software Developer | Cybersecurity |  Game Developer Enthusiast </h2> 
+
 
 I'm passionate about technology and love turning ideas into real projects. My main interests are software development, game development, automation, cloud technologies, and cybersecurity.
 
@@ -63,7 +66,10 @@ Cybersecurity
 - Continue expanding my knowledge in Cloud Computing and Security.
 ---
 📫 Contact
-- Gmail: [marialuizavitoria@gmail.com](mailto:marialuizavitoria@gmail.com)  
+ Gmail:
+```bash
+marialuizavitoria81@gmail.com
+``` 
 - LinkedIn: [www.linkedin.com/in/maria-luiza81](https://www.linkedin.com/in/maria-luiza81)
 ---
 
@@ -73,5 +79,4 @@ I love learning new technologies almost as much as I love creating things. Wheth
 
 ⭐ My GitHub is still growing, but every project here represents another step in my journey. Feel free to explore them!
 
-
-
+<img alt="Cloudy morning" src="https://i.watchpeoplelive.tv/images/1750281492yxn_i-VhhvIYkw.webp" width="100" align="right">
